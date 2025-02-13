@@ -1,5 +1,4 @@
 # Human Pose Estimation using Python
-
 This project implements human pose estimation using OpenCV’s Deep Neural Network (DNN) module with pre-trained Caffe models. The system detects key body joints from an input image and visualizes skeletal connections, making it useful for applications in healthcare, sports analytics, surveillance, and human-computer interaction.
 
 ## Features:
